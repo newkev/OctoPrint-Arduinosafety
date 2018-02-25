@@ -21,7 +21,7 @@ OctoRemote consists of two components, the Octoprint plugin and an arduino based
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/pkElectronics/OctoPrint-Octoremote/archive/master.zip
+    https://github.com/newkev/OctoPrint-Arduinosafety/archive/master.zip
 
 The plugin repository also contains the source code of the Arduino program which is necessary for the hardware controller. Installation if described in detail in the Hardware section.
 
